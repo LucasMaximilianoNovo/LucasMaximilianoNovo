@@ -8,4 +8,4 @@
 - :video_game: Sou apaixonado por jogos, devido a essa paixão tenho como um dos meus objetivos ser desenvolvedor de jogos após ingressar no mercado de trabalho. 
 
 # Ferramentas e Tecnologias
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" <40 class="devicon-trêsdsmax-plain colori" 40>/>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" <40 class="devicon-trêsdsmax-plain colori" 40/>
