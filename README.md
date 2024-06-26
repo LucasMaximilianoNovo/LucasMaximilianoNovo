@@ -8,4 +8,4 @@
 - :video_game: Sou apaixonado por jogos, devido a essa paixão tenho como um dos meus objetivos ser desenvolvedor de jogos após ingressar no mercado de trabalho. 
 
 # Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="40" height="40"/>
+<i class="devicon-trêsdsmax-plain colori"></i>
