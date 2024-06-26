@@ -1,3 +1,4 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 # Olá, sou Lucas Maximiliano Novo!! 
 ## Sejá muito bem-vindo ao meu perfil do GitHub :octocat:
 
