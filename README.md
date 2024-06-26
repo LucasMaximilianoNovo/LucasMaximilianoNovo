@@ -1,5 +1,5 @@
-# Olá, sou Lucas Maximiliano Novo!! 
-## Sejá muito bem-vindo ao meu perfil do GitHub :octocat:
+# **_Olá, sou Lucas Maximiliano Novo!!_**
+## _Sejá muito bem-vindo ao meu perfil do GitHub_ :octocat:
 
 - :chart_with_upwards_trend: Atualmente estou trabalhando como vendedor, realizando reservas para Olimpia no interior de São Paulo.
 - :mag_right: Estou procurando meu primeiro emprego como Desenvolvedor/Programador.
@@ -14,4 +14,5 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMaximilianoNovo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![snake gif](https://github.com/LucasMaximilianoNovo/LucasMaximilianoNovo/blob/output/github-contribution-grid-snake.svg)
+## Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" width="50"/> - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" width="50"/> - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="50" width="50"/>
