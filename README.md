@@ -8,4 +8,4 @@
 - :video_game: Sou apaixonado por jogos, devido a essa paixão tenho como um dos meus objetivos ser desenvolvedor de jogos após ingressar no mercado de trabalho. 
 
 # Ferramentas e Tecnologias
-<i class="devicon-trêsdsmax-plain colori"></i>
+<i class="devicon-trêsdsmax-plain colori"> width "40" height "40" </i>
