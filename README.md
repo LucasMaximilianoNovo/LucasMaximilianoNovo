@@ -1,11 +1,11 @@
 # **_Olá, sou Lucas Maximiliano Novo!!_**
 ## _Sejá muito bem-vindo ao meu perfil do GitHub_ :octocat:
 
-- :chart_with_upwards_trend: Atualmente estou trabalhando como vendedor, realizando reservas para Olimpia no interior de São Paulo.
-- :mag_right: Estou procurando meu primeiro emprego como Desenvolvedor/Programador.
-- :book: Faço faculdade de Análise e desenvolvimento de sistemas na Anhanguera.
-- :speaker: Estou fazendo um curso de inglês também, atualmente estou em um nível básico.
-- :mortar_board: Estou estudando JavaScript na Alura com foco em back-end, mas pretendo me tornar full stack e me aperfeiçoar nessa área.
+- :chart_with_upwards_trend: Atualmente focado nos estudos e na criação de um portfólio para Front-End.
+- :mag_right: Em busca do primeiro emprego como Desenvolvedor Front-End.
+- :book: Formado em Análise e Desenvolvimento de Sistmas pela Anhanguera.
+- :speaker: Estudando inglês por conta própria e buscando desenvolver com cursos, atualmente no nível básico.
+- :mortar_board: Realizando um bootcamp na MateAcademy no desenvolvimento Front-End
 - :video_game: Sou apaixonado por jogos, devido a essa paixão tenho como um dos meus objetivos ser desenvolvedor de jogos após ingressar no mercado de trabalho.
 
 ### _Ferramentas e Tecnologias_
