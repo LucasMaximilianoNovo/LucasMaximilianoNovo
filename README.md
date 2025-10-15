@@ -5,7 +5,7 @@
 - :mag_right: Em busca do primeiro emprego como Desenvolvedor Front-End.
 - :book: Formado em Análise e Desenvolvimento de Sistmas pela Anhanguera.
 - :speaker: Estudando inglês por conta própria e buscando desenvolver com cursos, atualmente no nível básico.
-- :mortar_board: Realizando um bootcamp na MateAcademy no desenvolvimento Front-End
+- :mortar_board: Realizando um bootcamp na MateAcademy de desenvolvimento Front-End
 - :video_game: Sou apaixonado por jogos, devido a essa paixão tenho como um dos meus objetivos ser desenvolvedor de jogos após ingressar no mercado de trabalho.
 
 ### _Ferramentas e Tecnologias_
